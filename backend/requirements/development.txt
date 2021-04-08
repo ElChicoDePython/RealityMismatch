@@ -1,6 +1,6 @@
 black==19.3b0
 pytest==4.5.0
 flake8==3.7.7
-django==3.0.3
+django==3.0.14
 ipdb
 mypy
